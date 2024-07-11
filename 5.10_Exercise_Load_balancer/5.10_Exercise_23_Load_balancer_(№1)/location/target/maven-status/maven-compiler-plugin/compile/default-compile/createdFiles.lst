@@ -1,0 +1,6 @@
+com\example\location\LocationApplication.class
+com\example\location\controller\LocationController.class
+com\example\location\repository\LocationRepository.class
+com\example\location\config\LocationConfig.class
+com\example\location\model\Location.class
+com\example\location\model\Weather.class
